@@ -20,7 +20,7 @@ Key Advantages:
 1. Clone the repository:
     ```bash
     git clone <repository-url>
-    cd valkey-glide-benchmark/java
+    cd valkey-benchmark-java
     ```
 
 2. Build the project:
