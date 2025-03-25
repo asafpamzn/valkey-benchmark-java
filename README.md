@@ -1,6 +1,6 @@
 # Valkey Benchmark Java
 
-Valkey Benchmark Java is a benchmark tool for Valkey. This tool allows developers to conduct performance testing in Java while maintaining consistent testing methodologies across different implementations. It supports various testing scenarios, including throughput testing, latency measurements, and custom command benchmarking.
+Valkey Benchmark Java is a benchmark tool for Valkey. This tool allows developers to conduct performance testing in Java. It supports various testing scenarios, including throughput testing, latency measurements, and custom command benchmarking.
 
 Key Advantages:
 
