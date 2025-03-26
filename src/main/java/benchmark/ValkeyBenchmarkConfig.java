@@ -283,7 +283,7 @@ public class ValkeyBenchmarkConfig {
                         sequentialKeyspacelen = Integer.parseInt(args[++i]);
                     }
                     break;
-                case "--pool-size":
+                case "-c":
                     if (i + 1 < args.length) {
                         poolSize = Integer.parseInt(args[++i]);
                     }
